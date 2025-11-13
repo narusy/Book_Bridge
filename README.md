@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 주제탐구 책을 추천해드립니다
 
 A simple Streamlit app template for you to modify!
 
