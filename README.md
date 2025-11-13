@@ -1,6 +1,6 @@
 # 🎈 주제탐구 책을 추천해드립니다
 
-A simple Streamlit app template for you to modify!
+진로 분야를 선택해 간단히 도서를 추천받으세요!
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
